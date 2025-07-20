@@ -3,7 +3,7 @@
   <a href="https://pratiksha.vercel.app/" target="_blank">pratiksha.tech</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <!-- <img alt="Demo" src="./Images/readme-img1.png" /> -->
 </div>
 
 <br/>
@@ -25,7 +25,7 @@
     <a href="https://github.com/pratiksha-12134/issues">Request Feature</a>
 </h3>
 
-## TL;DR
+<!-- ## TL;DR -->
 
 You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [pratiksha4419](https://github.com/pratiksha-12134). Thanks!
 
